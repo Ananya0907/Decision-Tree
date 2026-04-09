@@ -1,4 +1,4 @@
-# Contributing to ML Arena 3
+# Contributing to Decision-Tree
 
 This repo contains the Decision tree problem.
 
