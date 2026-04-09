@@ -31,7 +31,7 @@ Decision-Tree/
 |- exploration/exploration.ipynb
 |- library/training.ipynb
 |- scratch/training.ipynb
-`- .github/PULL_REQUEST_TEMPLATE.md
+|- PULL_REQUEST_TEMPLATE.md
 ```
 
 ## Task Tracks
