@@ -39,9 +39,9 @@ Closes #<issue-number>
 
 ### Metrics (Required for Library, Scratch, and Optimization)
 
-| Metric | Baseline (if available) | Current PR |
-| ------ | ------------------------ | ---------- |
-|        |                          |            |
+| Metric | Baseline (if available) | 
+| ------ | ------------------------ | 
+|        |                          |            
 
 ### Visuals / Insights
 
